@@ -15,7 +15,68 @@
       "image": "HowI.jpg"
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "book3": [
+    {
+      "name": "HOW TO IKIGAI", 
+      "description": "Ikigai is a concept of the value of living. Finding our own Ikikai will enable us to find our true purpose in life.", 
+      "price": 235, 
+      "image": "ikigai.jpg" 
+    }
+  ],
+  "book4": [
+    {
+     "name": "DO IT 1% SMARTER THAN THEM", 
+      "description": "Want to know, do successful people have things that are better than others?", 
+      "price": 165, 
+      "image": "Doit.jpg" 
+    }
+  ],
+  "book5": [
+    {
+    "name": "THE BEST HOMES", 
+      "description": "This book "The Best Homes" includes the best of selected homes from Home and Garden magazine.", 
+      "price": 395, 
+      "image": "home.jpg" 
+    }
+  ],
+  "book6": [
+    {
+   "name": "KEEP CALM AND PRAY", 
+      "description": "In times of trouble and times of joy, the importance of prayer cannot be overstated", 
+      "price": 345, 
+      "image": "keep.jpg" 
+    }
+  ],
+  "book7": [
+    {
+    "name": "INTO THE MAGIC SHOP", 
+      "description": "We all have magic shops in our hearts.", 
+      "price": 245, 
+      "image": "into.jpg"  
+    }
+  ],
+  "book8": [
+    {
+     "name": "HOMO DEUS A BRIEF HISTORY OF TOMORROW", 
+      "description": "Readers will be immersed in the story of self, consciousness and intelligence.", 
+      "price": 520, 
+      "image": "homo.jpg" 
+    }
+  ],
+  "book9": [
+    {
+    "name": "HOME SWEET MOTORHOME", 
+      "description": "A book that will take you through the moments of the author and family.", 
+      "price": 415, 
+      "image": "homes.jpg" 
+    }
+  ],
+  "book10": [
+    {
+     "name": "BEST DESIGN OFFICES AND WORKSPACES", 
+      "description": "Book that collect 100 offices, home offices, co-working spaces designs", 
+      "price": 495, 
+      "image": "work.jpg" 
+    }
+  ]
 }
