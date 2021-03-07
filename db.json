@@ -1,60 +1,11 @@
- { 
-      "name": "THE RANDOM WALK GUIDE TO INVESTING", 
-      "description": "Simply put, the essential first book for any investor", 
-      "price":678, 
-      "image": "try.jpg" 
-   }, 
-   { 
-      "name": "How I LOVE MY SELF", 
-      "description": "The story of the life-changing after loss everything then began to focus on herself.", 
-      "price": 230, 
-      "image": "HowI.jpg"
-   }, 
-   { 
-      "name": "HOW TO IKIGAI", 
-      "description": "Ikigai is a concept of the value of living. Finding our own Ikikai will enable us to find our true purpose in life.", 
-      "price": 235, 
-      "image": "ikigai.jpg" 
-   }, 
-   { 
-      "name": "DO IT 1% SMARTER THAN THEM", 
-      "description": "Want to know, do successful people have things that are better than others?", 
-      "price": 165, 
-      "image": "Doit.jpg" 
-   }, 
-   { 
-      "name": "THE BEST HOMES", 
-      "description": "This book "The Best Homes" includes the best of selected homes from Home and Garden magazine.", 
-      "price": 395, 
-      "image": "home.jpg" 
-   }, 
-   { 
-      "name": "KEEP CALM AND PRAY", 
-      "description": "In times of trouble and times of joy, the importance of prayer cannot be overstated", 
-      "price": 345, 
-      "image": "keep.jpg" 
-   } ,
- { 
-      "name": "INTO THE MAGIC SHOP", 
-      "description": "We all have magic shops in our hearts.", 
-      "price": 245, 
-      "image": "into.jpg" 
-   }, 
-   { 
-      "name": "HOMO DEUS A BRIEF HISTORY OF TOMORROW", 
-      "description": "Readers will be immersed in the story of self, consciousness and intelligence.", 
-      "price": 520, 
-      "image": "homo.jpg" 
-   }, 
-   { 
-      "name": "HOME SWEET MOTORHOME", 
-      "description": "A book that will take you through the moments of the author and family.", 
-      "price": 415, 
-      "image": "homes.jpg" 
-   }, 
-   { 
-      "name": "BEST DESIGN OFFICES AND WORKSPACES", 
-      "description": "Book that collect 100 offices, home offices, co-working spaces designs", 
-      "price": 495, 
-      "image": "work.jpg" 
-   } 
+ {
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
